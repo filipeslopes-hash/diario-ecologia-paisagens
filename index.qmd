@@ -1,0 +1,17 @@
+---
+title: "Diário de Ecologia de Paisagens"
+subtitle: BO-304 | UFPE | 2026.1
+author: Filipe dos Santos
+---
+
+Este site é meu portfólio pessoal da disciplina \*\*Ecologia de Paisagens\*\* (BO-304) da Universidade Federal de Pernambuco, ministrada pelo Prof. Felipe Melo.
+
+Aqui você encontrará:
+
+-   📓 Anotações das aulas
+-   📊 Relatórios das análises em R
+-   🌿 Reflexões sobre Ecologia de Paisagens
+
+```{r}
+1 + 1
+```
